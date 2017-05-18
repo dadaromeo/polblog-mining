@@ -1,0 +1,21 @@
+Topic 0,Topic 1,Topic 2
+government,camair-co,countries
+people,company,girls
+teachers,new board chair,nigeria
+release,time,refugees
+commission,boeing business plan,borders
+presidency,transport,country
+minister,observers,boko haram
+statement,presidential decree,terrorists
+president,summons,order
+consortium,meeting,sect
+camair-co,appointment,suicide bombings
+implementation,bamenda,nigerian refugees
+members,press,conditions
+strike,director general,power
+dialogue,buea,issue
+meeting,bid,report
+biya,service,case
+president biya,parents,ncc
+citizens,post,publishing
+authorisation,installation ceremony,journalism
